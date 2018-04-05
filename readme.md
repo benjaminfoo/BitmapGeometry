@@ -1,6 +1,6 @@
 # RGBtoUnity
 
-<img src="/readme/demo_level_1.png">  
+<img src="/readme/header.png">  
 
 ## Usage
 * clone this repo using: 
