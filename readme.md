@@ -12,7 +12,7 @@
 ### Texture import
 These are the recommended import settings used by  the levelgenerator.
 
-<img src="/readme/textureSettings.png">  
+<img src="/readme/texture_settings.png">  
 
 ## Prefabs
 This prefabs are just placeholder gameobjects for testing purposes. 
