@@ -1,10 +1,8 @@
 # RGBtoUnity
-
+<img src="/readme/textureSettings.PNG">  
 
 ## Usage
- 
- ![Screenshot](textureSettings.png)
-   
+
 ## Prefabs
 ### LevelGenerator 
 
