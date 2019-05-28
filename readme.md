@@ -1,4 +1,4 @@
-# RGBtoUnity
+# Bitmap Geomtry
 
 <img src="/readme/header.png">  
 
