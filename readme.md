@@ -8,9 +8,8 @@ This project is an implementation of a simple level generator for Unity3D.
  * Generated level-objects are determined by a color in a given bitmap, the specific color values are 
 
 ## Usage
-* clone this repo using: 
-* open the following scene in unity: 
- > /scenes/demo_level_1.unity
+* clone this repo and put the "bitmap_geometry" folder inside your unity assets directory
+* open the demo-scene from ```/scenes/demo_level_1.unity``` or keep reading this readme.
 
 
 ## Texture import in Unity3d
