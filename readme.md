@@ -9,9 +9,10 @@ This project is an implementation of a simple level generator for Unity3D.
 
 ## Usage
 * clone this repo and put the "bitmap_geometry" folder inside your unity assets directory
-* open the demo-scene from ```/scenes/demo_level_1.unity``` or keep reading this readme.
-
-
+* Create a new gameobject (call it "LevelGenerator" or something like that)
+  * The bitmap which is used to define the strcture is the *Target Map*, select a sprite according to the settings below
+  * Create another gameobject (call it "LevelGeometry") and asign it to the level-generator, this is used as the root-node for the generated objects
+a
 ## Texture import in Unity3d
 These are the recommended import settings used by the levelgenerator.
 
