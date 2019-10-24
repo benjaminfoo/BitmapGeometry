@@ -1,4 +1,4 @@
-# Bitmap Geomtry
+# Bitmap Geometry
 <img src="/readme/header.png">  
 
 This project is an implementation of a simple level generator for Unity3D. 
