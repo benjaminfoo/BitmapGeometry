@@ -1,11 +1,11 @@
 # Bitmap Geometry
 <img src="/readme/header.png">  
 
-This project is an implementation of a simple level generator for Unity3D. 
+This project is an implementation of a simple architecture generator for Unity3D. 
 
 ## Features
- * Level generation of bitmaps on the fly
- * Generated level-objects are determined by a color in a given bitmap, the specific color values are 
+ * Architecture generation of bitmaps on the fly
+ * Generated level-objects are determined by a color in a given bitmap (color <-> gameobject map)
 
 ## Usage
 * clone this repo and put the "bitmap_geometry" folder inside your unity assets directory
